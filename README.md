@@ -1,4 +1,4 @@
-These are for extroverts, and I am not.
+Generalist.
 
 Python & javascript mostly, rust is a must.
 
