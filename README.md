@@ -1,6 +1,6 @@
 Generalist.
 
-Python & JavaScript mostly, Rust & Go as often as I can.
+Python & JavaScript mostly, Rust & Go as often as I can, you should have written your mobile app in Flutter.
 
 Django > {{anyJSFramework}}
 
