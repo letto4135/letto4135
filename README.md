@@ -5,7 +5,7 @@ Python & JavaScript mostly, Rust & Go as often as I can, you should have written
 Django > {{anyJSFramework}}
 
 My sites
-* [lifessoftware.com](https://lifessoftware.com)
+* [photography](https://photography.mister-life.com)
 * [mister-life.com](https://mister-life.com)
 
 Sites I have made for free because I can
